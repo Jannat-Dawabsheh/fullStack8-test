@@ -494,15 +494,17 @@
     gap: 58px;
     justify-content: center;
     margin-bottom: 62px;
+    
    }
 
-   .Leatest-Products-link{
+   .LeatestProducts .Leatest-Products-link{
     color: var(--mainColor);
     text-decoration: underline;
    }
 
    .LeatestProducts a{
     font-size: 18px;
+    color: #151875;
    }
 
    .Leatest-Products-items{
@@ -1021,7 +1023,7 @@
    .Discount{
   
     margin-bottom: 79px;
-    color: #151875;
+   
    }
 
    .Discount h2{
@@ -1055,7 +1057,16 @@
     align-items:center ;
     justify-content: center;
     margin-bottom: 30px;
+    color: #151875;
     
+   }
+   .type-row a{
+    color: #151875;
+   }
+
+   .type-row .Leatest-Products-link{
+    color: var(--mainColor);
+    text-decoration: underline;
    }
 
 
